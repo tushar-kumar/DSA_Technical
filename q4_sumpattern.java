@@ -1,3 +1,4 @@
+// Using stack falling
 // 1/1^1 + 2/2^2 + 3/3^3 ...
 
 public class q4_sumpattern {

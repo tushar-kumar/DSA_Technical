@@ -1,3 +1,5 @@
+// Using stack building
+
 public class q3_sumofN {
     static int count = 0;
     static void sumN(int n){

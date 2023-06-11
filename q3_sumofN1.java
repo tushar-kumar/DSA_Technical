@@ -1,3 +1,5 @@
+// Using stack falling
+
 public class q3_sumofN1 {
     static int sumN(int n){
         if(n > 0){

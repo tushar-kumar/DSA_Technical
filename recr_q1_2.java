@@ -1,3 +1,5 @@
+// Using stack building
+
 public class recr_q1_2 {
     static void pow(int base, int exp, int res){
         // int res = base;
@@ -12,8 +14,8 @@ public class recr_q1_2 {
         }
     }
     public static void main(String[] args) {
-        int base = 2;
-        int exp = 5;
+        int base = 3;
+        int exp = 3;
         int res = base;
         pow(base, exp, res);
         

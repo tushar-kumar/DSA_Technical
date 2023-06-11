@@ -1,3 +1,5 @@
+// Using stack falling
+
 class recursion_q1{
     static int pow(int base, int exp){
         if(exp != 0){
@@ -7,6 +9,7 @@ class recursion_q1{
             return 1;
         }
     }
+    
     public static void main(String[] args) {
         int base = 2;
         int exp = 5;
